@@ -36,5 +36,5 @@ int main()
     volume = Box2.height * Box2.length * Box2.breadth;
     cout << "Box2 volume: " << volume << endl;
 
-
+    return 0;
 }
