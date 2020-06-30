@@ -1,0 +1,3 @@
+/home/leeyee/CPP_Lesson/inheritance_Lesson/BaseClass_and_DerivedClass/CMakeFiles/rebuild_cache.dir
+/home/leeyee/CPP_Lesson/inheritance_Lesson/BaseClass_and_DerivedClass/CMakeFiles/edit_cache.dir
+/home/leeyee/CPP_Lesson/inheritance_Lesson/BaseClass_and_DerivedClass/CMakeFiles/main.dir
